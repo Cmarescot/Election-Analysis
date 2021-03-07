@@ -34,7 +34,7 @@ The analysis of the election show that:
   - Diana DeGetter received 73.8% of the vote and 272,892 number of votes.
   - Raymon anthony Doane received 3.1% of the vote and  11,606 number of votes.
  ### Election Winner
- -The winner of the election was:
+ The winner of the election was:
   - Diana Degetter who received 73.8% of the vote and 272,892 number of votes 
  
 ## Election-Audit Summary 
