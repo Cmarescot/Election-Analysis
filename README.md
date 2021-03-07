@@ -42,8 +42,8 @@ One of the great benefits of this analysis is that this script can be used (with
 
 ### File reader 
 1. Different election data can be read by changing all the file readers in the code 
-
+![file_reader.png](https://github.com/Cmarescot/Election-Analysis/blob/main/Resources/file_reader.png)
 ### Extraction 
 2. Locaton of data may differ depending on each file, and so changing the index when extracting information is also very important 
-3. ![extraction.png](https://github.com/Cmarescot/Election-Analysis/blob/main/Resources/extraction.png)
+![extraction.png](https://github.com/Cmarescot/Election-Analysis/blob/main/Resources/extraction.png)
 
